@@ -4,4 +4,7 @@ This repo is for various python scripts as I create them. I will add short descr
 This is a script that will generate a password based on the "password strength" you enter.
 
 #createuser.py - 
-This is a script that will create a user in kali linux, generate a random 15 charachter password and assign the user root privleges if you request them.
+This is a script that will create a user in kali linux, generate a random 15 charachter password and assign the user root privleges if requested.
+
+#deleteuser.py - 
+This will delete a user in Kali linux along with their home directory.
